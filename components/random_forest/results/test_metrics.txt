@@ -1,0 +1,18 @@
+===== TEST RESULTS =====
+Best Parameters: {'max_depth': 15, 'max_features': 'sqrt', 'min_samples_leaf': 4, 'min_samples_split': 10, 'n_estimators': 400}
+Best Validation F1-score: 0.7274
+Accuracy  : 0.7379
+Precision : 0.7581
+Recall    : 0.6905
+F1-score  : 0.7227
+Log Loss  : 0.5393
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.72      0.78      0.75      5200
+           1       0.76      0.69      0.72      5092
+
+    accuracy                           0.74     10292
+   macro avg       0.74      0.74      0.74     10292
+weighted avg       0.74      0.74      0.74     10292
