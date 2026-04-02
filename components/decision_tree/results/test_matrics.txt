@@ -1,0 +1,17 @@
+===== TEST RESULTS (v2) =====
+Accuracy  : 0.7278
+Precision : 0.7129
+Recall    : 0.7533
+F1-score  : 0.7326
+Log Loss  : 0.5455
+
+Classification Report:
+
+              precision    recall  f1-score   support
+
+           0       0.74      0.70      0.72      5200
+           1       0.71      0.75      0.73      5092
+
+    accuracy                           0.73     10292
+   macro avg       0.73      0.73      0.73     10292
+weighted avg       0.73      0.73      0.73     10292
